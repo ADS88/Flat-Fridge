@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Refrigerador</string>
+    <string name="hello_blank_fragment">Spanish</string>
+    <string name="add_food">Agregar comida</string>
+    <string name="dark_mode">Modo oscuro</string>
+    <string name="language">Idioma</string>
+    <string name="add_image">Añadir imagen</string>
+    <string name="enter_food_name">El nombre de la comida</string>
+    <string name="expiry_date">Fecha de caducidad</string>
+    <string name="days_till_expiry">%1$d días restantes</string>
+    <string name="days_past_expiry_date">%1$d días vencidos!</string>
+    <string name="expires_today">Vence hoy</string>
+    <string name="missing_name">Ingrese el nombre de la comida</string>
+    <string name="missing_photo">Subir una foto de comida</string>
+    <string name="successfully_added">Comida creada!</string>
+    <string name="home">Hogar</string>
+    <string name="settings">Ajustes</string>
+    <string name="add">Agregar</string>
+    <string name="display_preferences">Preferencias de visualización</string>
+    <string name="show_date_as">Mostrar fecha como</string>
+    <string name="display_items_as">Mostrar elementos como</string>
+    <string name="get_started">Agrega un alimento para comenzar</string>
+    <string name="list">Lista</string>
+    <string name="grid">Cuadrícula</string>
+    <string name="days_till_expiry_setting">Días hasta el vencimiento</string>
+</resources>

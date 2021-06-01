@@ -1,0 +1,24 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="date_entries">
+        <item>@string/days_till_expiry_setting</item>
+        <item>@string/expiry_date</item>
+    </string-array>
+
+    <string-array name="date_values">
+        <item>daysTillExpiry</item>
+        <item>expiryDate</item>
+    </string-array>
+
+
+    <string-array name="display_entries">
+        <item>@string/list</item>
+        <item>@string/grid</item>
+    </string-array>
+
+    <string-array name="display_values">
+        <item>list</item>
+        <item>grid</item>
+    </string-array>
+
+</resources>
